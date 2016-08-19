@@ -1,4 +1,3 @@
-layout_spectrum: 0.041267725406214595
 typography_spectrum: 0.039570560213178396
 color:
   brandStrength: 0.3870662513654679
@@ -6,9 +5,27 @@ color:
   saturation: 0.06043983483687043
   rhythmicContrast: 0.624990769661963
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FDFFFA'
+    - '#221010'
+    - '#464938'
+    - '#ACA85E'
+    - '#846B55'
+layout_spectrum: 0.041267725406214595
+analytics:
+  google: UA-82840632-1
+author:
+  name: Myles Blackwood
+  email: myles@blackwood.bike
+  url: 'http://myles.blackwood.bike'
+logo: null
 name: ':: blackwood.bike ::'
+navigation:
+  - name: Momentummag.com
+    url: 'https://momentummag.com'
+    type: external
+  - name: momentum bike
+    id: fbcd4420-1a60-4eeb-9b23-a2d853d1641d
+    type: content
+favicon: null
+title: ':: blackwood.bike ::'
+description: a site about the blackwoods and their bicycles
