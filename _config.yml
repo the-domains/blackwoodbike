@@ -1,4 +1,3 @@
-layout_spectrum: 0.041267725406214595
 typography_spectrum: 0.039570560213178396
 color:
   brandStrength: 0.3870662513654679
@@ -11,4 +10,9 @@ color:
     - '#464938'
     - '#ACA85E'
     - '#846B55'
+layout_spectrum: 0.041267725406214595
+author:
+  name: Myles Blackwood
+  email: myles@blackwood.bike
+  url: 'http://myles.blackwood.bike'
 name: ':: blackwood.bike ::'
