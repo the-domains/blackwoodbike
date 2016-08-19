@@ -16,5 +16,9 @@ author:
   email: myles@blackwood.bike
   url: 'http://myles.blackwood.bike'
 name: ':: blackwood.bike ::'
+navigation:
+  - name: Momentummag.com
+    url: 'https://momentummag.com'
+    type: external
 title: ':: blackwood.bike ::'
 description: a site about the blackwoods and their bicycles
