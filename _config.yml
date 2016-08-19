@@ -1,0 +1,14 @@
+layout_spectrum: 0.041267725406214595
+typography_spectrum: 0.039570560213178396
+color:
+  brandStrength: 0.3870662513654679
+  lightness: 0.602502575609833
+  saturation: 0.06043983483687043
+  rhythmicContrast: 0.624990769661963
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: ':: blackwood.bike ::'
