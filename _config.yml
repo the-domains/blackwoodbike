@@ -11,6 +11,8 @@ color:
     - '#ACA85E'
     - '#846B55'
 layout_spectrum: 0.041267725406214595
+analytics:
+  google: UA-82840632-1
 author:
   name: Myles Blackwood
   email: myles@blackwood.bike
