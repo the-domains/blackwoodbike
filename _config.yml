@@ -17,10 +17,12 @@ author:
   name: Myles Blackwood
   email: myles@blackwood.bike
   url: 'http://myles.blackwood.bike'
+logo: null
 name: ':: blackwood.bike ::'
 navigation:
   - name: Momentummag.com
     url: 'https://momentummag.com'
     type: external
+favicon: null
 title: ':: blackwood.bike ::'
 description: a site about the blackwoods and their bicycles
